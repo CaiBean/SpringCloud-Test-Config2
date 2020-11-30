@@ -21,4 +21,4 @@ eureka:
     lease-renewal-interval-in-seconds: 5
 
 test:
-  name: bujiangwude
+  name: haoziweiz
